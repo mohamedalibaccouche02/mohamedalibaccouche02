@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mohamedalibaccouche02
-- 👀 I’m interested in cyber security / database / software engeneering 
-- 🌱 I’m currently learning C / C++
+- IOT Student
+- MERN developper
+- NEW in AI and machine learning
 
 - 📫 How to reach me mohamedalibaccouche02@gmail.com
 

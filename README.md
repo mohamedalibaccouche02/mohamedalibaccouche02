@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamedalibaccouche02
-- IOT Student
-- MERN developper
-- NEW in AI and machine learning
+- Computer Ingeneering Student
+- Full Stack Developper
+- Graduated with a Bachelor's degree in Embedded Systemes and IOT
 
 - 📫 How to reach me mohamedalibaccouche02@gmail.com
 

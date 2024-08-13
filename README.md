@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mohamedalibaccouche02
 - Computer Ingeneering Student
-- Full Stack Developper
 - Graduated with a Bachelor's degree in Embedded Systemes and IOT
-
+- junior Developer
 - 📫 How to reach me mohamedalibaccouche02@gmail.com
 
 <!---
